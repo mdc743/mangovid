@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Pornographic Vulgar"
+    },
+    {
+      "id": "2",
+      "name": "Crime"
+    },
+    {
+      "id": "3",
+      "name": "Politically Sensitive"
+    },
+    {
+      "id": "4",
+      "name": "Illegal Marketing"
+    },
+    {
+      "id": "5",
+      "name": "False Information"
+    },
+    {
+      "id": "6",
+      "name": "Infringement"
+    }
+  ]
+}
