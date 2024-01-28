@@ -1,0 +1,35 @@
+{
+  "apps": [
+    {
+      "version": "1.0",
+      "logo_splash": "",
+      "url_play_store": "",
+      "privacy_url": "",
+      "terms_url": "",
+      "protect_app": "0",
+      "base_url": "WVVoU01HTklUVFpNZVRsMFdrZE5NMDVFVFhWYU1td3dZVWhXYVV4dGJIWk1NakZvWW0xa2RtUnRi",
+      "share_text": "Download the app "
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": "1",
+      "ad_type": "admob",
+      "backup_ads": "fan",
+      "admob_publisher_id": "pub-3940256099942544",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_rewarded_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+      "native_ad_style_post_list": "medium",
+      "native_ad_style_exit_dialog": "medium",
+      "is_open_ads": "1"
+    }
+  ]
+}
