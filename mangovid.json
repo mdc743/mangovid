@@ -30,7 +30,7 @@
       "backup_open_id": "YOUR_PLACEMENT_ID",
       "native_ad_style_post_list": "medium",
       "native_ad_style_exit_dialog": "medium",
-      "interstitial_ad_interval": "2",
+      "interstitial_ad_interval": "4",
       "native_index_post": "3"
     }
   },
