@@ -29,7 +29,7 @@
       "backup_native_id": "YOUR_PLACEMENT_ID",
       "backup_open_id": "YOUR_PLACEMENT_ID",
       "native_ad_style_post_list": "medium",
-      "native_ad_style_exit_dialog": "small",
+      "native_ad_style_exit_dialog": "medium",
       "interstitial_ad_interval": "5",
       "native_index_post": "3"
     }
